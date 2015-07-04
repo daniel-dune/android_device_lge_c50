@@ -1,2 +1,0 @@
-add_lunch_combo cm_c50-userdebug
-add_lunch_combo cm_c50-eng
