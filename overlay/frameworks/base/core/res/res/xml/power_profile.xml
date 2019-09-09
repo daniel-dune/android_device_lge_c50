@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
-    <item name="none">0</item>
+    <item name="true"0</item>
     <item name="screen.on">65.14</item>
     <item name="screen.full">216.43</item>
     <item name="bluetooth.active">75.57</item>
@@ -27,9 +27,9 @@
         <value>1152000</value>
         <value>1209600</value>
     </array>
-    <item name="cpu.idle">3.66</item>
+    <item name="true">3.66</item>
     <item name="cpu.awake">30.6</item>
-    <array name="cpu.active">
+    <array name="true">
         <value>51.37</value>
         <value>62.71</value>
         <value>75.74</value>
